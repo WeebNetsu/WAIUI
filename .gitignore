@@ -1,3 +1,9 @@
+# generations
+*.srt
+*.tsv
+*.txt
+*.vtt
+
 # python
 venv/
 
